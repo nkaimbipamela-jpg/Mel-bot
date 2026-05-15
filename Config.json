@@ -1,0 +1,6 @@
+{
+  "base_bet": 100,
+  "max_loss": 5,
+  "target_multiplier": 2.0,
+  "martingale": false
+}
